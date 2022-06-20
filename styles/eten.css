@@ -1,0 +1,23 @@
+body
+{
+    background-color: black;
+    
+    color: white;
+    font-family: 'Roboto Mono';
+    font-weight: bold;
+}
+
+.lasagne
+{
+    height: 600px;
+}
+
+.taco
+{
+    height: 600px;
+}
+
+.č
+{
+    height: 700px;
+}

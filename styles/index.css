@@ -1,0 +1,73 @@
+body 
+{
+    background-image: url('../visuals/Palm_Springs_D_Ramey_Logan_full.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: white;
+    font-family: 'Roboto Mono', 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-shadow: 2px 2px 6px black;
+}
+
+a
+{
+    color: lightgrey;
+}
+
+a:visited
+{
+    color: grey;
+}
+
+a:hover
+{
+    color: #550000;
+}
+
+a:active
+{
+    color: red;
+}
+
+h1
+{
+    perspective: 100px;
+}
+
+#uitgang
+{
+    color: white;
+    text-decoration: none;
+}
+
+#uitgang:visited
+{
+    color: white;
+    text-decoration: none;
+}
+
+#uitgang:hover
+{
+    color: #550000;
+}
+
+@keyframes clap
+{
+    from {transform:translateX(-100px) translateZ(-500px)}
+    to {transform:translateZ(0px)}
+}
+
+.clap
+{
+    width: 250px;
+    vertical-align: -55px;
+    animation-name: clap;
+    animation-duration: 2s;
+    animation-fill-mode: both;
+}
+
+#smolc
+{
+    font-variant: small-caps;
+}

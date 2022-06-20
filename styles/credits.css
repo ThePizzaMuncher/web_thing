@@ -1,0 +1,100 @@
+body
+{
+    background-color: black;
+    color: white;
+    font-family: 'Roboto Mono';
+}
+
+#credits-gumo
+{
+    vertical-align: -15px;
+}
+
+a
+{
+    color: white;
+}
+
+a:visited
+{
+    color: lightgrey;
+}
+
+a:hover
+{
+    color: #550000;
+}
+
+a:active
+{
+    color: #f00;
+}
+
+#runway
+{
+    height: 540px;
+}
+
+#tramcity
+{
+    width: 960px;
+}
+
+#LinkontheRocks
+{
+    width: 1280px;
+}
+
+#Sky
+{
+    font-family: 'Sky Era Hylian';
+}
+
+#TimeH
+{
+    font-family: 'Time Era Hylian';
+}
+
+#TimeS
+{
+    font-family: 'Time Era Hylian Serif';
+}
+
+#TimeP
+{
+    font-family: 'Time Era Hylian Pixel';
+    font-size: 16pt;
+}
+
+#TimeG
+{
+    font-family: 'Time Era Gerudo';
+}
+
+#NHH
+{
+    font-family: 'No Hero Era Hylian';
+    font-size: 15pt;
+}
+
+#Twilight
+{
+    font-family: 'Twilight Era Hylian';
+    font-size: 20pt;
+}
+
+#CalamityH
+{
+    font-family: 'Calamity Era Hylian';
+}
+
+#CalamityS
+{
+    font-family: 'Calamity Era Sheikah';
+    font-size: 15pt;
+}
+
+.Jonathan
+{
+    width: 450px;
+}

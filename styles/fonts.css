@@ -1,0 +1,97 @@
+/*@font-face
+{
+    font-family: "Roboto Mono";
+    src: url(../fonts/Robomono/RobotoMono-VariableFont_wght.ttf);
+    font-style: normal;
+}
+@font-face
+{
+    font-family: "Roboto Mono";
+    src: url(../fonts/Robomono/RobotoMono-Italic-VariableFont_wght.ttf);
+    font-style: italic;
+}*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+@font-face
+{
+    font-family: "Sky Era Hylian";
+    src: url('../fonts/Hylian/Sky-Era/SariF_Hylian_Ancient.ttf');
+}
+@font-face
+{
+    font-family: "Time Era Hylian";
+    src: url('../fonts/Hylian/Time-Era/SariF_Hylian_Modern_Regular.ttf');
+}
+@font-face
+{
+    font-family: "Time Era Hylian Serif";
+    src: url('../fonts/Hylian/Time-Era/SariF_Hylian_Modern_Times.ttf');
+}
+@font-face
+{
+    font-family: "Time Era Hylian Pixel";
+    src: url('../fonts/Hylian/Time-Era/SariF_Hylian_Modern_Pixel.ttf')
+}
+@font-face
+{
+    font-family: "Time Era Gerudo";
+    src: url('../fonts/Hylian/Time-Era/GerudoTypography.ttf');
+}
+@font-face
+{
+    font-family: "No Hero Era Hylian";
+    src: url('../fonts/Hylian/No-Hero-Era/NoHeroHylian.otf');
+}
+@font-face
+{
+    font-family: "Twilight Era Hylian";
+    src: url('../fonts/Hylian/Twilight-Era/TPHylian-GCNRegular.otf');
+    font-weight: normal;
+}
+@font-face
+{
+    font-family: "Twilight Era Hylian";
+    src: url('../fonts/Hylian/Twilight-Era/TPHylian-GCNBold.otf');
+    font-weight: bold;
+}
+@font-face
+{
+    font-family: "Calamity Era Hylian";
+    src: url('../fonts/Hylian/Calamity-Era/AlbwBotwHylian-Regular.ttf');
+}
+@font-face
+{
+    font-family: "Calamity Era Sheikah";
+    src: url('../fonts/Hylian/Calamity-Era/BotW_Sheikah.ttf');
+    font-weight: normal;
+}
+@font-face
+{
+    font-family: "Calamity Era Sheikah";
+    src: url('../fonts/Hylian/Calamity-Era/BotW_Sheikah_Bold.ttf');
+    font-weight: bold;
+}
+@font-face
+{
+    font-family: "Charlemagne";
+    src: url('../fonts/Hylian/CharlemagneRegular.ttf');
+    font-weight: normal;
+}
+@font-face
+{
+    font-family: "Charlemagne";
+    src: url('../fonts/Hylian/CharlemagneBold.otf');
+    font-weight: bold;
+}
+
+@font-face
+{
+    font-family: "Hylia Serif";
+    src: url('../fonts/Hylian/HyliaSerifBeta-Regular.otf');
+}
+@font-face
+{
+    font-family: "Triforce";
+    src: url('../fonts/Hylian/Triforce.ttf');
+}

@@ -1,0 +1,139 @@
+body
+{
+    background-image: url('../visuals/city-of-trams_Mary-Guo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    color: white;
+    font-weight: 600;
+    font-family: 'Roboto Mono', 'Courier New', Courier, monospace;
+    text-shadow: black 2px 2px 0.5em;
+}
+
+h4
+{
+    font-weight: 700;
+}
+
+a
+{
+    color: lightgrey;
+}
+
+a:visited
+{
+    color: grey;
+}
+
+a:hover
+{
+    color: #550000;
+}
+
+a:active
+{
+    color: red;
+}
+
+.niin
+{
+    width: 480px;
+}
+
+.hkc
+{
+    height: 400px;
+}
+
+.firstflight
+{
+    height: 540px;
+}
+
+.LinkontheRocks
+{
+    width: 1280px;
+}
+
+.famcontainer
+{
+    position: relative;
+    color: red;
+    font-size: 30px;
+    height: 700px;
+    width: 525px;
+}
+
+.familietekst
+{
+    position: absolute;
+    top: 2%;
+    left: 10%;
+    opacity: 0;
+}
+
+.famcontainer:hover .familietekst
+{
+    opacity: 1;
+}
+
+.beer
+{
+    height: 800px;
+}
+
+.Lo
+{
+    font-family: 'Charlemagne';
+    font-weight: bold;
+}
+
+.Z
+{
+    font-family: Triforce;
+}
+
+.fonts
+{
+    font-weight: normal;
+}
+
+.Sky
+{
+    font-family: 'Sky Era Hylian';
+}
+
+.Time
+{
+    font-family: 'Time Era Hylian';
+}
+
+.Nohero
+{
+    font-family: 'No Hero Era Hylian';
+    font-size: 15pt;
+}
+
+.Twilight
+{
+    font-family: 'Twilight Era Hylian';
+    font-size: 20pt;
+}
+
+.Calamity
+{
+    font-family: 'Calamity Era Hylian';
+}
+
+.Gerudo
+{
+    font-family: 'Time Era Gerudo';
+    font-size: 15pt;
+}
+
+.Sheikah
+{
+    font-family: 'Calamity Era Sheikah';
+    font-size: 15pt;
+}

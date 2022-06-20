@@ -1,0 +1,12 @@
+body
+{
+    background-image: url('../visuals/beigeground.jpg');
+    background-repeat: repeat;
+    font-family: 'Roboto Mono';
+}
+
+#subject
+{
+	width: 200px;
+	height: 200px;
+}
